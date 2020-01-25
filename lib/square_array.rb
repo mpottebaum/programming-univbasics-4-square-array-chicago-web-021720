@@ -12,7 +12,7 @@
 def square_array(array)
   new_array = []
   for n in array
-    square = array[i] * array[i]
+    square = array[n] * array[n]
     new_array.push()
   end
   new_array
